@@ -232,7 +232,7 @@
                                   <Component id="jComboBox19" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" attributes="0">
-                                  <Component id="jComboBox6" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jComboBox61" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
                                   <Component id="jComboBox7" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
@@ -292,7 +292,7 @@
                                   <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <Group type="103" groupAlignment="3" attributes="0">
-                                  <Component id="jComboBox6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jComboBox61" alignment="3" min="-2" max="-2" attributes="0"/>
                                   <Component id="jComboBox7" alignment="3" min="-2" max="-2" attributes="0"/>
                                   <Component id="jComboBox8" alignment="3" min="-2" max="-2" attributes="0"/>
                                   <Component id="jComboBox9" alignment="3" min="-2" max="-2" attributes="0"/>
@@ -427,7 +427,7 @@
             </Property>
           </Properties>
         </Component>
-        <Component class="javax.swing.JComboBox" name="jComboBox6">
+        <Component class="javax.swing.JComboBox" name="jComboBox61">
           <Properties>
             <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
               <Connection code="new javax.swing.DefaultComboBoxModel(new String[] { &quot;Beer&quot;, &quot;Coffee&quot;, &quot;Milk&quot;, &quot;Tea&quot;, &quot;Water&quot; })" type="code"/>
